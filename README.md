@@ -20,10 +20,13 @@ This repository contains an analysis and visualization of global COVID-19 vaccin
 -global_covid19_vaccination_data.csv: Contains data on COVID-19 vaccination coverage, doses administered, and other relevant metrics for countries worldwide.
 ## Data Cleaning 
 -Removed irrelevant columns and rows with missing data.
+
 -Converted date columns to appropriate formats.
+
 -Created new features for analysis, such as vaccination rate per capita.
 ## Data Exploration 
 -Provided statistical summaries for key metrics.
+
 -Explored relationships between vaccination rates, COVID-19 cases, and demographic factors.
 ## Data Visualization
 -Developed a Tableau dashboard with interactive visualizations, including:
